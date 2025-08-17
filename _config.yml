@@ -4,3 +4,4 @@ description: Welcome to my homepage!
 google_analytics:
 theme: jekyll-theme-minimal
 future: true
+markdown: kramdown
